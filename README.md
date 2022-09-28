@@ -1,4 +1,4 @@
-# Mini-Juegos-En-Pocos-Minutos
+# Mini-Juegos-En-Pocos-Minutos-Money-Wheel
 Serie de mini juegos en pocos minutos para divertirse y aprender algo nuevo
 
 --SPANISH:
