@@ -1,5 +1,5 @@
 # Mini-Juegos-En-Pocos-Minutos-Money-Wheel
-Serie de mini juegos en pocos minutos para divertirse y aprender algo nuevo
+Un capítulo de la serie de mini juegos en pocos minutos para divertirse y aprender algo nuevo
 
 --SPANISH:
 Pueden utilizar el archivo Assets para incorporar las scripts, los materiales y demás que utilizaremos en el pequeño tutorial.
